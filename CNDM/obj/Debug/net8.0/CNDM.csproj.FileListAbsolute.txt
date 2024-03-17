@@ -1,0 +1,305 @@
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\appsettings.json
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\CNDM.exe
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\CNDM.deps.json
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\CNDM.runtimeconfig.json
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\CNDM.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\CNDM.pdb
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\CNDM.csproj.AssemblyReference.cache
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\CNDM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\CNDM.AssemblyInfoInputs.cache
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\CNDM.AssemblyInfo.cs
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\CNDM.csproj.CoreCompileInputs.cache
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\CNDM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\CNDM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\CNDM.sourcelink.json
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\staticwebassets\msbuild.CNDM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\staticwebassets\msbuild.build.CNDM.props
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CNDM.props
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CNDM.props
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\scopedcss\bundle\CNDM.styles.css
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\CNDM.csproj.CopyComplete
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\CNDM.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\refint\CNDM.dll
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\CNDM.pdb
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\CNDM.genruntimeconfig.cache
+C:\Users\Thinh\source\repos\longle993\CNDM\CNDM\obj\Debug\net8.0\ref\CNDM.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\appsettings.json
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\CNDM.exe
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\CNDM.deps.json
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\CNDM.runtimeconfig.json
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\CNDM.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\CNDM.pdb
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\CNDM.csproj.AssemblyReference.cache
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\CNDM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\CNDM.AssemblyInfoInputs.cache
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\CNDM.AssemblyInfo.cs
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\CNDM.csproj.CoreCompileInputs.cache
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\CNDM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\CNDM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\CNDM.sourcelink.json
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\staticwebassets\msbuild.CNDM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\staticwebassets\msbuild.build.CNDM.props
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CNDM.props
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CNDM.props
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\scopedcss\bundle\CNDM.styles.css
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\CNDM.csproj.CopyComplete
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\CNDM.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\refint\CNDM.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\CNDM.pdb
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\CNDM.genruntimeconfig.cache
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\obj\Debug\net8.0\ref\CNDM.dll
+C:\Users\Thinh\OneDrive\Máy tính\CNDM\CNDM\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\appsettings.Development.json
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\appsettings.json
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\CNDM.exe
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\CNDM.deps.json
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\CNDM.runtimeconfig.json
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\CNDM.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\CNDM.pdb
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Azure.Core.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Azure.Identity.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Humanizer.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.CodeDom.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Long Le\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.csproj.AssemblyReference.cache
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.AssemblyInfoInputs.cache
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.AssemblyInfo.cs
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.csproj.CoreCompileInputs.cache
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.MvcApplicationPartsAssemblyInfo.cs
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.MvcApplicationPartsAssemblyInfo.cache
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\staticwebassets.build.json
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\staticwebassets.development.json
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\staticwebassets\msbuild.CNDM.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\staticwebassets\msbuild.build.CNDM.props
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CNDM.props
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CNDM.props
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\scopedcss\bundle\CNDM.styles.css
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.csproj.CopyComplete
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.dll
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\refint\CNDM.dll
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.pdb
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.genruntimeconfig.cache
+D:\Long Le\CNDM-Thinh\CNDM\obj\Debug\net8.0\ref\CNDM.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\appsettings.Development.json
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\appsettings.json
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\CNDM.exe
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\CNDM.deps.json
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\CNDM.runtimeconfig.json
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\CNDM.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\CNDM.pdb
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Azure.Core.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Azure.Identity.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Humanizer.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.CodeDom.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.csproj.AssemblyReference.cache
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.AssemblyInfoInputs.cache
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.AssemblyInfo.cs
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.csproj.CoreCompileInputs.cache
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.MvcApplicationPartsAssemblyInfo.cs
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.MvcApplicationPartsAssemblyInfo.cache
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\staticwebassets.build.json
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\staticwebassets.development.json
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\staticwebassets\msbuild.CNDM.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\staticwebassets\msbuild.build.CNDM.props
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CNDM.props
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CNDM.props
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\scopedcss\bundle\CNDM.styles.css
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.csproj.CopyComplete
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\refint\CNDM.dll
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.pdb
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\CNDM.genruntimeconfig.cache
+D:\Long Le\Code quá 180'\CNDM-Thinh\CNDM\obj\Debug\net8.0\ref\CNDM.dll
